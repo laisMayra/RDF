@@ -1,0 +1,19 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/">
+      
+	<foaf:knows>
+	<foaf:Person>
+	<foaf:name>Emma</foaf:name>
+	<foaf:mbox rdf:resource="mailto:emma@gmail.com"/></foaf:Person></foaf:knows>
+	<foaf:knows>
+	<foaf:Person>
+	<foaf:name>Henry</foaf:name>
+	<foaf:mbox rdf:resource="mailto:henry@gmail.com"/></foaf:Person></foaf:knows>
+	<foaf:knows>
+	<foaf:Person>
+	<foaf:name>Robin</foaf:name>
+	<foaf:mbox rdf:resource="mailto:robin.wood@gmail.com"/></foaf:Person></foaf:knows></foaf:Person>
+	
+</rdf:RDF>
